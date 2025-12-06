@@ -1,4 +1,5 @@
-# 🪄 Hi, I'm **Kinomiya-Dai** — Creative Frontend/Backend Engineer
+# 🪄 Hi, I'm **Kinomiya-Dai** 
+Frontend/Backend Engineer
 
 ## 🔥 Feature Working
 ### 🌐 Portfolio Site — My project showcase
