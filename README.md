@@ -3,8 +3,7 @@ Frontend/Backend Engineer
 
 ![Profile Views](https://komarev.com/ghpvc/?username=noto&color=blue)　![GitHub followers](https://img.shields.io/github/followers/noto?label=Followers&style=social)
 
-## Feature Working
-### Portfolio Site — My project showcase
+## Portfolio Site
 **https://portfolio-site-qhcc.vercel.app/**  
 ↓アップデートしました[2026/02/15]  
 **https://koala-craft-blog.vercel.app/**  
